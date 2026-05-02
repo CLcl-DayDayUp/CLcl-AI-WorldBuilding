@@ -28,7 +28,9 @@ https://github.com/CLcl-DayDayUp/CLcl-AI-WorldBuilding
 # 说明
 
 本仓库主要用于个人记录与整理
+
 内容更新不定期，结构可能随时调整
+
 不保证逻辑自洽（至少暂时如此）
 
 # TODO / 计划
