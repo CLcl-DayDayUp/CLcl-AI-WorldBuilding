@@ -12,14 +12,15 @@ https://github.com/CLcl-DayDayUp/CLcl-AI-WorldBuilding
 
 # 内容结构（暂定）
 
-world setting/：世界观设定（地理条件\生物种族\物理规则\历史,等）
-characters/: 主要出场角色
-stories/：短篇或片段小说
-notes/：杂项记录与思考
+ - world setting/：世界观设定（地理条件\生物种族\物理规则\历史,等）
+ - characters/: 主要出场角色
+ - stories/：短篇或片段小说
+ - notes/：杂项记录与思考
 
 # 关于世界观
 
 本仓库中的大部分内容，将尝试并入“书山大人”的主世界观体系。
+
 不同设定之间可能存在冲突、重构或废弃，请以最新版本为准。
 
 出于习惯,将尝试以"面向对象编程"方式记录一些"Object"的属性,并建立"parten Class",一直很想这样子写,感觉很多东西能够变得直观,也方便代码补全(😀)
